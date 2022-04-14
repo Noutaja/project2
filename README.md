@@ -6,4 +6,4 @@ A simple OMDBapi movie search. A school project.
 ## Features
 * Search movies by name and/or year
 
-Online version: https://jyri-guestbook.herokuapp.com/
+Online version: https://jyri-moviesearch.herokuapp.com/
