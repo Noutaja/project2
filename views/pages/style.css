@@ -9,8 +9,11 @@ body {
 }
 
 .movie-list-item {
-	max-height: 200px;
 	display: flex;
+}
+
+.poster-image {
+	max-height: 200px;
 }
 
 .movie-details {
