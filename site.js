@@ -8,8 +8,6 @@ var axios = require("axios");
 var PORT = process.env.PORT || 8081;
 const apiUrl = "http://www.omdbapi.com/?apikey=24c608e2&s=";
 
-
-
 site.use(express.static("./views/pages"));
 site.use(bodyParser.urlencoded({ extended: true }));
 site.set("view engine", "ejs");
